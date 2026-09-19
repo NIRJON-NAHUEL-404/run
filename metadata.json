@@ -1,0 +1,6 @@
+{
+  "name": "Dash Runner",
+  "description": "An action-packed endless runner game with evolving stages, obstacle dodging, character roster, daily missions, and offline leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
